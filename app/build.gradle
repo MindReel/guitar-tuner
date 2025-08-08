@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'com.gutartuna'
+    namespace "com.gutartuna"
     compileSdk 34
 
     defaultConfig {
