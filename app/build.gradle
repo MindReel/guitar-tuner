@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'com.example.guitartuner'
+    namespace 'gutar tuna'
     compileSdk 34
 
     defaultConfig {
